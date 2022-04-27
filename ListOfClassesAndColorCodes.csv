@@ -1,0 +1,25 @@
+Label,Class,Desc,Color,Red,Green,Blue,Gray
+0,feature,bckgnd,Black,0,0,0,0
+1,feature,sp multi,Gray,128,128,128,128
+2,feature,sp mono,Dark gray,80,80,80,80
+3,feature,sp dogbone,Blue - bright,0,0,255,29
+4,feature,ribbons,Green - bright,0,255,0,150
+5,feature,border,Brown,100,50,50,65
+6,feature,text,Pink,225,0,100,79
+7,feature,padding,Olive,128,128,0,113
+8,feature,clamp,Gold,255,215,0,202
+9,feature,busbars,Blue,50,50,255,73
+10,defect,crack rbn edge ,Teal,0,255,255,179
+11,defect,inactive,Red,255,0,0,76
+12,defect,rings,Violet,255,0,255,105
+13,defect,material,Yellow,255,255,0,226
+14,defect,crack,White,255,255,255,255
+15,defect,gridline,Orange,255,165,0,173
+16,defect,splice,Indigo,75,0,130,37
+17,defect,dead cell,light black,32,32,32,32
+18,defect,corrosion ,Green - dark,0,150,0,88
+19,defect,belt mark,Golden rod,218,165,32,166
+20,defect,edge dark,Dark golden rod,184,134,11,135
+21,feature,frame edge,Aqua marine,127,255,215,212
+22,feature,jbox,blue,45,45,255,69
+23,defect,meas artifact,dark brown,50,50,50,50
