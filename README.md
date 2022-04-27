@@ -15,6 +15,6 @@ ZAE Bayern dataset                                             (https://github.c
 # Sample images
 There are twenty-four (24) classes labelled in the original dataset: twelve (12) intrinsic features of wafer-based solar cells and twelve (12) extrinsic defects. The 'ListOfClassesAndColorCodes.csv' lists the 24 classes along with the unique RGB codes used to label the ground truth masks. The benchmark dataset contains a roughly equal number of images from multi-crystalline and mono-crystalline cells. 
 
-Some examples of the EL images and corresponding ground truyh images are shown below. 
+Some examples of the EL images and corresponding ground truth masks are shown below. 
 
 ![image](https://user-images.githubusercontent.com/26845062/165531501-1606bdbb-8155-4d84-9568-bd7df862a7d4.png)
