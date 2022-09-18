@@ -1,0 +1,29 @@
+Class,Desc,Color,Red,Green,Blue,Label,Gray
+feature,bckgnd,Black,0,0,0,0,0
+feature,sp multi,gray light,128,128,128,1,128
+feature,sp mono,gray dark,80,80,80,2,80
+feature,sp dogbone,Blue - bright,0,0,255,3,29
+feature,ribbons,Green - lime,0,255,0,4,150
+feature,border,Brown,100,50,50,5,65
+feature,text,Pink,225,0,100,6,79
+feature,padding,Olive,128,128,0,7,113
+feature,clamp,Gold,255,215,0,8,202
+feature,busbars,Blue,50,50,255,9,73
+defect,crack rbn edge ,Teal,0,255,255,10,179
+defect,inactive,Red,255,0,0,11,76
+defect,rings,Violet,255,0,255,12,105
+defect,material,Yellow - bright,255,255,0,13,226
+defect,crack,White,255,255,255,14,255
+defect,gridline,Orange,255,165,0,15,173
+defect,splice,Indigo,75,0,130,16,37
+defect,dead cell,light black,32,32,32,17,32
+defect,corrosion rbn,Green,0,150,0,18,88
+defect,belt mark,Golden rod,218,165,32,19,166
+defect,edge dark,Dark golden rod,184,134,11,20,135
+feature,frame edge,Aqua marine,127,255,215,21,212
+feature,jbox,blue,45,45,255,22,69
+defect,meas artifact,dark brown,50,50,50,23,50
+feature,sp mono halfcut,gray medium,100,100,100,24,100
+defect,scuff,Yellow - dark,200,200,0,25,177
+defect,corrosion cell,Green - dark,0,100,0,26,59
+defect,brightening,silver,192,192,192,27,192
