@@ -13,7 +13,7 @@ CWRU SDLE Research Center dataset                              (https://osf.io/4
 ZAE Bayern dataset                                             (https://github.com/zae-bayern/elpv-dataset)
 
 # Sample images
-There are twenty-four (24) classes labelled in the original dataset: twelve (12) intrinsic features of wafer-based solar cells and twelve (12) extrinsic defects. The 'ListOfClassesAndColorCodes.csv' lists the 24 classes along with the unique RGB codes used to label the ground truth masks. The benchmark dataset contains a roughly equal number of images from multi-crystalline and mono-crystalline cells. The subsequent datasets include additional images, additional classes, and corrections to earlier versions of the same images.  
+There are twenty-four (24) classes labelled in the original dataset: twelve (12) intrinsic features of wafer-based solar cells and twelve (12) extrinsic defects. The 'ListOfClassesAndColorCodes.csv' in the 'dataset_20211104' directory lists the 24 classes along with the unique RGB codes used to label the ground truth masks. The benchmark dataset contains a roughly equal number of images from multi-crystalline and mono-crystalline cells. The subsequent datasets include additional images, additional classes, and corrections to earlier versions of the same images. The corresponding 'ListOfClassesAndColorCodes.csv' are also included in each of database directories.   
 
 Some examples of the EL images and corresponding ground truth masks are shown below. 
 
