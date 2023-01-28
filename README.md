@@ -25,12 +25,19 @@ Please, cite the following publications when publishing work based on these data
 
 For the 20211104 dataset, cite the following:
 @article{pratt2021defect,
+
   title={Defect detection and quantification in electroluminescence images of solar PV modules using U-net semantic segmentation},
+  
   author={Pratt, Lawrence and Govender, Devashen and Klein, Richard},
+  
   journal={Renewable Energy},
+  
   volume={178},
+  
   pages={1211--1222},
+  
   year={2021},
+  
   publisher={Elsevier}
 }
 
