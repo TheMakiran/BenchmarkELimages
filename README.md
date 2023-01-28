@@ -1,5 +1,5 @@
-# Benchmark dataset for semantic segmentation
-This site hosts a benchmark dataset for multi-class semantic segmentation of electroluminescence (EL) imagess of silicon wafer-based solar cells. The dataset consists of EL images of solar cells originating from three (3) private and two (2) public sources. The three private sources include: 1) The CSIR Energy Centre, a PV module test lab in South Africa where the research and development was conducted ; 2) CFV Labs, a PV module test lab in the United States; and 3) ARTsolar, a PV module manufacturer in South Africa. The public dataset includes images selected from the larger datasets previously publishded by CWRU SDLE Research Center and ZAE Bayern. Please, cite the papers listed below when using these datasets for your own work. 
+# Benchmark dataset for defect detection in EL images of solar cells using semantic segmentation
+This site hosts a benchmark dataset for multi-class semantic segmentation of electroluminescence (EL) imagess of silicon wafer-based solar cells. The dataset consists of EL images of solar cells originating from three (3) private and two (2) public sources. The three private sources include: 1) The CSIR Energy Centre, a PV module test lab in South Africa where the research and development was conducted ; 2) CFV Labs, a PV module test lab in the United States; and 3) ARTsolar, a PV module manufacturer in South Africa. The public dataset includes images selected from the larger datasets previously publishded by CWRU SDLE Research Center and ZAE Bayern. Please, cite the papers listed below when using these datasets in your own work. 
 
 # Links
 CSIR Energy Centre PV Module Quality and Reliability Lab video (https://www.youtube.com/watch?v=OGP2u6_1-cg)
@@ -24,24 +24,19 @@ Some examples of the EL images and corresponding ground truth masks are shown be
 Please, cite the following publications when publishing work based on these datasets.
 
 For the 20211104 dataset, cite the following:
-@article{pratt2021defect,
 
+@article{pratt2021defect,
   title={Defect detection and quantification in electroluminescence images of solar PV modules using U-net semantic segmentation},
-  
   author={Pratt, Lawrence and Govender, Devashen and Klein, Richard},
-  
   journal={Renewable Energy},
-  
   volume={178},
-  
   pages={1211--1222},
-  
   year={2021},
-  
   publisher={Elsevier}
 }
 
 For the 20221008 dataset, cite the following:
+
 @article{pratt2023benchmark,
   title={A benchmark dataset for defect detection and classification in electroluminescence images of PV modules using semantic segmentation},
   author={Pratt, Lawrence and Mattheus, Jana and Klein, Richard},
