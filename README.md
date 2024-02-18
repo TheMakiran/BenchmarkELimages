@@ -1,5 +1,5 @@
-# Benchmark dataset for defect detection in EL images of solar cells using semantic segmentation
-This site hosts a benchmark dataset for multi-class semantic segmentation of electroluminescence (EL) imagess of silicon wafer-based solar cells. The dataset consists of EL images of solar cells originating from three (3) private and two (2) public sources. The three private sources include: 1) The CSIR Energy Centre, a PV module test lab in South Africa where the research and development was conducted ; 2) CFV Labs, a PV module test lab in the United States; and 3) ARTsolar, a PV module manufacturer in South Africa. The public dataset includes images selected from the larger datasets previously publishded by CWRU SDLE Research Center and ZAE Bayern. Please, cite the papers listed below when using these datasets in your own work. 
+# Benchmark datasets for defect detection in EL images of solar cells using semantic segmentation
+This site hosts benchmark datasets for multi-class semantic segmentation of electroluminescence (EL) imagess of silicon wafer-based solar cells. The dataset consists of EL images of solar cells originating from three (3) private and two (2) public sources. The three private sources include: 1) The CSIR Energy Centre, a PV module test lab in South Africa where the research and development was conducted ; 2) CFV Labs, a PV module test lab in the United States; and 3) ARTsolar, a PV module manufacturer in South Africa. The public dataset includes images selected from the larger datasets previously publishded by CWRU SDLE Research Center and ZAE Bayern. Please, cite the papers listed below when using these datasets in your own work. 
 
 # Links
 CSIR Energy Centre PV Module Quality and Reliability Lab video (https://www.youtube.com/watch?v=OGP2u6_1-cg)
@@ -13,7 +13,7 @@ CWRU SDLE Research Center dataset                              (https://osf.io/4
 ZAE Bayern dataset                                             (https://github.com/zae-bayern/elpv-dataset)
 
 # Sample images
-There are twenty-four (24) classes labelled in the original dataset (20211104): twelve (12) intrinsic features of wafer-based solar cells and twelve (12) extrinsic defects. The datasets contain a roughly equal number of images from multi-crystalline and mono-crystalline cells. The subsequent datasets include additional images, additional classes, and corrections to earlier versions of the same images.  The 'ListOfClassesAndColorCodes.csv' included in each database directory lists the 24 classes along with the unique RGB index used to label the ground truth masks. 
+The 'dataset_20211104' folder contains a labelled dataset with twenty-four (24) classes: twelve (12) intrinsic features of wafer-based solar cells and twelve (12) extrinsic defects. The datasets contain a roughly equal number of images from multi-crystalline and mono-crystalline cells. The subsequent datasets include additional images, additional classes, and corrections to earlier versions of the same images.  The 'ListOfClassesAndColorCodes.csv' included in each database directory lists the 24 classes along with the unique RGB index used to label the ground truth masks. 
 
 Some examples of the EL images and corresponding ground truth masks are shown below. 
 
@@ -30,6 +30,9 @@ Each dataset folder has subfolders for EL images (train, val, test), ground trut
   - el_masks_test    # indexed ground truth masks for testing
   - el_masks_train   # indexed ground truth masks for testing
   - el_masks_val     # indexed ground truth masks for testing
+ 
+# Unlabelled dataset
+The 'dataset_unlabelled' folder includes of over 20,000 images of cells with padding cropped from module level images. 
   
 # Citations
 
