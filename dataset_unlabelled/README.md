@@ -1,4 +1,4 @@
-# Unlablled cell-level EL images cropped from module-level EL images
+# Unlabelled cell-level EL images cropped from module-level EL images
 
 Unlabelled cell-level EL images from the CSIR can be downloaded from the link below.             
 (https://www.dropbox.com/scl/fo/05tusdgk1iip792c7a11c/h?rlkey=lwqhnniotq17ct3p5o9ovxhvv&dl=0)
