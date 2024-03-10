@@ -50,7 +50,7 @@ For the 20211104 dataset, cite the following:
   publisher={Elsevier}
 }
 
-For the 20221008 dataset, cite the following:
+For any other dataset on this repo or dropbox link, cite the following:
 
 @article{pratt2023benchmark,
   title={A benchmark dataset for defect detection and classification in electroluminescence images of PV modules using semantic segmentation},
