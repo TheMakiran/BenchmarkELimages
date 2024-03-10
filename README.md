@@ -32,7 +32,7 @@ Each folder with labelled datasets has the same subfolders for EL images (train,
   - el_masks_val     # indexed ground truth masks for testing
  
 # Folder structure for the unlabelled dataset
-The 'dataset_unlabelled' folder contains a link to a dropbox with over 150,000 cell-level EL images cropped from xxx module-level EL images. The unlabelled cell-level images can used for training semi-supervised and self-supervised models. They can als be used to create additional ground truth images for fully-supervised models.  
+The 'dataset_unlabelled' folder contains a link to a dropbox with over 150,000 cell-level EL images cropped from 2,573 module-level EL images. Over 2,000 of those images were sourced from one module supplier during the construction of a 911 kWp DC rooftop installation at the CSIR commissioned in 2018. The unlabelled cell-level images can used for training semi-supervised and self-supervised models. They can als be used to create additional ground truth images for fully-supervised models.  
   
 # Citations
 
