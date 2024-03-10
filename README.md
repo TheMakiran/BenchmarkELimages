@@ -12,8 +12,6 @@ CWRU SDLE Research Center dataset                              (https://osf.io/4
 
 ZAE Bayern dataset                                             (https://github.com/zae-bayern/elpv-dataset)
 
-Unlabelled cell-level EL images from the CSIR                  (https://www.dropbox.com/scl/fo/05tusdgk1iip792c7a11c/h?rlkey=lwqhnniotq17ct3p5o9ovxhvv&dl=0)
-
 # Sample images
 The 'dataset_20211104' folder contains the original labelled dataset with twenty-four (24) classes: twelve (12) intrinsic features of wafer-based solar cells and twelve (12) extrinsic defects. The datasets contain a roughly equal number of images from multi-crystalline and mono-crystalline cells. The subsequent datasets include additional images, additional classes, and corrections to earlier versions of the same images.  The 'ListOfClassesAndColorCodes.csv' included in each database directory lists the classes along with the unique RGB index used to label the ground truth masks. 
 
@@ -33,8 +31,8 @@ Each folder with labelled datasets has the same subfolders for EL images (train,
   - el_masks_train   # indexed ground truth masks for testing
   - el_masks_val     # indexed ground truth masks for testing
  
-# Folder structure for module dataset
-The 'dataset_modules' folder consists of 329 module-level EL images. These images can be cropped to create over 20,000 additional cell-level images. The unlabelled cell-level images can used for training semi-supervised and self-supervised models. They can als be used to create additional ground truth images for fully-supervised models.  
+# Folder structure for the unlabelled dataset
+The 'dataset_unlabelled' folder contains a link to a dropbox with over 150,000 cell-level EL images cropped from xxx module-level EL images. The unlabelled cell-level images can used for training semi-supervised and self-supervised models. They can als be used to create additional ground truth images for fully-supervised models.  
   
 # Citations
 
